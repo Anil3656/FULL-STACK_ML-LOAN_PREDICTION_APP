@@ -197,7 +197,7 @@ LoanEligibilityAI/
 
 <div align="center">
 
-**👨‍💻 Developed by [Your Name]**  
+**👨‍💻 Developed by AneelKumar Muppana**  
 *Data Scientist & Full-Stack Developer*
 
 [![Portfolio](https://img.shields.io/badge/🌐-Portfolio-1f77b4?style=for-the-badge)](https://yourportfolio.com)
